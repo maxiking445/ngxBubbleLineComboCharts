@@ -34,7 +34,7 @@ export class AppComponent {
 
   lineChartSeries = [
     {
-      name: 'Tablets',
+      name: 'Scatter',
       series: [
         {
           value: 0,
