@@ -1,27 +1,22 @@
-# NgxBubbbleChartLineCombo
+# ngxBubbleLineComboCharts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+[![npm version](https://badge.fury.io/js/%40maxiking445%2Fngx-bubble-line-combo-charts.svg)](https://www.npmjs.com/package/@maxiking445/ngx-bubble-line-combo-charts)
 
-## Development server
+**ngxBubbleLineComboCharts** is a Prototype for creating customizable bubble and line combo charts. It allows you to easily visualize data using both bubble and line charts in a single component, providing a comprehensive view of your data.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+- **Bubble Chart**: Display data points as bubbles with customizable size and color.
+- **Line Chart**: Visualize trends and patterns using lines with customizable styles.
+- **Combo Chart**: Combine both bubble and line charts to represent multiple data sets simultaneously.
+- **Customizable**: Customize colors, styles, labels, and other chart properties to match your design requirements.
+- **Responsive For Linedata and Bubbledata**: Ensures optimal viewing experience across various screen sizes and devices.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
+Install the library using npm: not published - just copy the CustomChart Folder and use it like in app.component.ts
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+##Stackblitz
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://stackblitz.com/~/github.com/maxiking445/ngxBubbleLineComboCharts
