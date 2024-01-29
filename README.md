@@ -1,7 +1,5 @@
 # ngxBubbleLineComboCharts
 
-[![npm version](https://badge.fury.io/js/%40maxiking445%2Fngx-bubble-line-combo-charts.svg)](https://www.npmjs.com/package/@maxiking445/ngx-bubble-line-combo-charts)
-
 **ngxBubbleLineComboCharts** is a Prototype for creating customizable bubble and line combo charts. It allows you to easily visualize data using both bubble and line charts in a single component, providing a comprehensive view of your data.
 
 ## Features
